@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
-<h3 align="center">💞️ I’m would love to collaborate on ML projects !</h3>
-<!-- <h4> Checkout My coding profile and the code used !</h4> -->
+<h3 align="center">💞️ I would love to collaborate on ML projects !</h3>
 
 #### Profile links
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/lollinng) 
