@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/lollinng) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathamesh-jadhav-105728138/) 
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pratameshjadhav@gmail.com)
-[<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](lollinng.github.io/Prathamesh/)
+[<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](https://lollinng.github.io/Prathamesh/)
 
 ###### Frameworks and Stack I have worked with
 ![Flask](https://img.shields.io/badge/-Flask-blue?style=for-the-badge&logo=Flask)
