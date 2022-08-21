@@ -13,9 +13,9 @@ class mySkills:
         self.role = "Data Engineer"
         
         self.Languages = ['Python', 'Js', 'Cpp' , 'SQL']
-        self.Machine_Learning = [ 'Tensorflow' , 'PyTorch', 'Keras' , 'Scikit-learn' , 'Opencv' , 'NLP']
+        self.MachineLearning = [ 'Tensorflow' , 'PyTorch', 'Keras' , 'Scikit-learn' , 'Opencv' , 'NLP']
         self.Analytics_Databases = ['MongoDB', 'MySQl', 'Oracle' ,'Excel', 'matplotlib' , 'seaborn']
-        self.Cloud_Big Data = ['AWS (EC2)' , 'Apache Spark' , 'Kafka' , 'Heroku' , 'linux']
+        self.Cloud_BigData = ['AWS (EC2)' , 'Apache Spark' , 'Kafka' , 'Heroku' , 'linux']
         self.Frameworks_Stacks_Tools = ['Flask' ,'Flutter' ,'MERN' , 'Node js', 'Git' , 'Apis' , 'docker']
         
     def say_hi(self):
