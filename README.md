@@ -46,11 +46,11 @@ me.say_hi()
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🗂️ Highlight Projects
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/lollinng/Action-Recognition-System">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lollinng&repo=Action-Recognition-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Action" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/lollinng/Healthify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lollinng&repo=Healthify&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
