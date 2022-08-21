@@ -32,18 +32,8 @@ me.say_hi()
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pratameshjadhav@gmail.com)
 [<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](https://lollinng.github.io/Prathamesh/)
 
-
 ###### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollinng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-###### Tools I have worked with
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Streaming](https://img.shields.io/badge/Spark_Streaming-blue?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-181717?style=for-the-badge&logo=firebase)
-![Anaconda](https://img.shields.io/badge/-Anaconda-181717?style=for-the-badge&logo=anaconda)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🗂️ Highlight Projects
 
