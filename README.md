@@ -17,8 +17,7 @@ class mySkills:
         self.Analytics_Databases = ['MongoDB', 'MySQl', 'Oracle' ,'Excel', 'matplotlib' , 'seaborn']
         self.Cloud_Big Data = ['AWS (EC2)' , 'Apache Spark' , 'Kafka' , 'Heroku' , 'linux']
         self.Frameworks_Stacks_Tools = ['Flask' ,'Flutter' ,'MERN' , 'Node js', 'Git' , 'Apis' , 'docker']
-        self.language_spoken = ["English", "Hindi","Marathi"]
-
+        
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
