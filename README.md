@@ -43,6 +43,6 @@ me.say_hi()
 <img align="center" src="https://lollinng.vercel.app/api/pin/?username=lollinng&repo=Action-Recognition-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Action" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/lollinng/Healthify">
-  <img align="center" src="https://lollinng.vercel.app/api/pin/?username=lollinng&repo=Healthify&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+<a href="https://github.com/lollinng/LanguageTranslation-using-Attention-mechanism">
+  <img align="center" src="https://lollinng.vercel.app/api/pin/?username=lollinng&repo=LanguageTranslation-using-Attention-mechanism&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
