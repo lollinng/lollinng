@@ -42,8 +42,8 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/lollinng/Image-Captioning">
-<img align="center" src="https://lollinng.vercel.app/api/pin/?username=lollinng&repo=Image-Captioning&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Action" />
+<a href="https://github.com/lollinng/ImageSearchEngine-using-ImageCaptioning">
+<img align="center" src="https://lollinng.vercel.app/api/pin/?username=lollinng&repo=ImageSearchEngine-using-ImageCaptioning&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Action" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/lollinng/LanguageTranslation-using-Attention-mechanism">
