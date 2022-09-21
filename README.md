@@ -27,7 +27,7 @@ me.say_hi()
 ```
 
 #### Profile links
-[<img src ="https://img.shields.io/badge/Resume-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">](https://drive.google.com/file/d/15dlshL_KgEF0tRz9kyIRkhcZOjNQ8AU_/view)
+[<img src ="https://img.shields.io/badge/Resume-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">](https://drive.google.com/file/d/19Sz-TMaV13GiQ1B4rApUVP4ohlMYqiXI/view)
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/lollinng) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathamesh-jadhav-105728138/) 
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pratameshjadhav@gmail.com)
