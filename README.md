@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Prathamesh</h1>
-<h3 align="center">💞️ I would love to collaborate on ML projects !</h3>
+<h3 align="center">Would love to contribute on backend projects</h3>
 
 
 ```python
@@ -12,7 +12,7 @@ class mySkills:
     def __init__(self):
         self.role = "Data Engineer"
         
-        self.Languages = ['Python', 'Js', 'Cpp' , 'SQL']
+        self.Languages = ['Python', 'Js', 'Java' , 'SQL']
         self.MachineLearning = [ 'Tensorflow' , 'PyTorch', 'Keras' , 'Scikit-learn' , 'Opencv' , 'NLP']
         self.Analytics_Databases = ['MongoDB', 'MySQl', 'Oracle' ,'Excel', 'matplotlib' , 'seaborn']
         self.Cloud_BigData = ['AWS (EC2)' , 'Apache Spark' , 'Kafka' , 'Heroku' , 'linux']
