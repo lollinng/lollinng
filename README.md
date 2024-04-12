@@ -1,33 +1,20 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Prathamesh</h1>
-<h3 align="center">Would love to contribute on backend projects</h3>
+<h5 >A Python Backend Developer with a year of experience.</h5>
+Last year I've won some prestigious awards for my work, like the Best Paper Award at the IEEE Pune 2023 conference and an award in a government science exhibition competition for my AI project . <br>
+I create solid backend solutions using languages like Python, JS , Golang, and Java, and frameworks like Flask , Django and React. I love making things run smoother and faster through automation and optimization. <br>
+I've worked on projects in various stacks and I'm always on the lookout for new opportunities to bring my skills to the table and make a difference.
+<br><br>
 
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class mySkills:
-
-    def __init__(self):
-        self.role = "Data Engineer"
-        
-        self.Languages = ['Python', 'Js', 'Java' , 'SQL']
-        self.MachineLearning = [ 'Tensorflow' , 'PyTorch', 'Keras' , 'Scikit-learn' , 'Opencv' , 'NLP']
-        self.Analytics_Databases = ['MongoDB', 'MySQl', 'Oracle' ,'Excel', 'matplotlib' , 'seaborn']
-        self.Cloud_BigData = ['AWS (EC2)' , 'Apache Spark' , 'Kafka' , 'Heroku' , 'linux']
-        self.Frameworks_Stacks_Tools = ['Flask' ,'Flutter' ,'MERN' , 'Node js', 'Git' , 'Apis' , 'docker']
-        
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = mySkills()
-me.say_hi()
+```
+Skills
+Languages: Python, Golang, Java, JavaScript, Sql, Plsql
+Tech./Frameworks: Flask, Django, Spark, MERN, Nodejs , React
+Databases : Neo4j , Mysql , MongoDb
 ```
 
+
 #### Profile links
-[<img src ="https://img.shields.io/badge/Resume-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">](https://drive.google.com/file/d/19Sz-TMaV13GiQ1B4rApUVP4ohlMYqiXI/view)
+[<img src ="https://img.shields.io/badge/Resume-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">](https://drive.google.com/file/d/1EG-raOGsn78WRC57xON76fCoipZqBjOT/view?usp=sharing)
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/lollinng) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathamesh-jadhav-105728138/) 
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pratameshjadhav@gmail.com)
