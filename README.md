@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Prathamesh</h1>
 <h5 >A Python Backend Developer with a year of experience.</h5>
-Last year I've won some prestigious awards for my work, like the Best Paper Award at the IEEE Pune 2023 conference and an award in a government science exhibition competition for my AI project . <br>
 I create solid backend solutions using languages like Python, JS , Golang, and Java, and frameworks like Flask , Django and React. I love making things run smoother and faster through automation and optimization. <br>
+Last year I've won some prestigious awards for my work, like the Best Paper Award at the IEEE Pune 2023 conference and an award in a government science exhibition competition for my AI project . <br>
 I've worked on projects in various stacks and I'm always on the lookout for new opportunities to bring my skills to the table and make a difference.
 <br><br>
 
