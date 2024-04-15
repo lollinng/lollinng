@@ -7,7 +7,7 @@ I've worked on projects in various stacks and I'm always on the lookout for new 
 
 ```
 Skills
-Languages: Python, Golang, Java, JavaScript, Sql, Plsql
+Languages: Python, Golang, Java, JavaScript, Sql, Plsql ,TypeScript
 Tech./Frameworks: Flask, Django, Spark, MERN, Nodejs , React
 Databases : Neo4j , Mysql , MongoDb
 ```
