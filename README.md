@@ -14,9 +14,9 @@ Databases : Neo4j , Mysql , MongoDb
 
 
 #### Profile links
-[<img src ="https://img.shields.io/badge/Resume-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">](https://drive.google.com/file/d/1EG-raOGsn78WRC57xON76fCoipZqBjOT/view?usp=sharing)
+[<img src ="https://img.shields.io/badge/Resume-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">](https://drive.google.com/file/d/1_XPqq4OGc0M4lTGNY4gkKL97sV9cK-JD/view)
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/lollinng) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathamesh-jadhav-105728138/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathameshvj/) 
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pratameshjadhav@gmail.com)
 [<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](https://lollinng.github.io/Prathamesh/)
 
