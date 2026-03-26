@@ -61,7 +61,7 @@
 |---------|-------|-------------|
 | [Hexagonal Architecture API](https://github.com/lollinng/NestJs-Hexagonal-Architecture) | NestJS, TypeORM, PostgreSQL | Clean architecture backend with domain-driven design |
 | [BrainStorming](https://github.com/lollinng/BrainStorming) | Node.js, Claude API | Automated research pipeline with email and WhatsApp integrations |
-| [Real-Time Location Tracker](https://github.com/lollinng/2D_location_tracker) | Python, Spark, Kafka | Streaming system for real-time vehicle tracking on a map |
+| [PrepBuzz](https://github.com/lollinng/PrepBuzz) | Python, Claude API, Qdrant, SQLite | RAG + agentic pipeline that auto-generates educational videos for CAT exam questions |
 
 ---
 
