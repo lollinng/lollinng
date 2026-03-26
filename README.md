@@ -1,51 +1,70 @@
 # Prathamesh Jadhav
 
-**Backend Engineer — APIs, Integrations & Database Systems**
+**Backend Engineer** — APIs · AI integrations · Production systems
 
-I build reliable backend systems that power products. REST and GraphQL APIs, third-party integrations
-(payments, messaging, auth providers), database design, and deployment infrastructure — from
-architecture to production.
-
-3 years of professional experience across Oracle and a high-growth startup. I write clean,
-well-documented code and deliver on time.
+3 years across Oracle and a high-growth startup. I build backends that ship — REST/GraphQL APIs, LLM-powered pipelines, real-time systems, and full deployment infra. Currently at Edra Labs working on AI/ML backends with CUDA.
 
 ---
 
-### What I Build
+### Currently Working On
 
-- **REST & GraphQL APIs** — FastAPI, Django, NestJS, Spring Boot, Go
-- **Third-Party Integrations** — Stripe, Twilio, OAuth providers, email/SMS, webhooks
-- **Database Design** — PostgreSQL, MySQL, MongoDB, Redis — schema design, migrations, optimization
-- **Auth Systems** — JWT, OAuth 2.0, RBAC, session management
-- **Real-Time Systems** — WebSockets, Kafka, event-driven architectures
-- **AI-Powered Backends** — RAG pipelines, LLM integration, intelligent automation
-- **DevOps & Deployment** — Docker, AWS, GCP, CI/CD, monitoring
+**[CookQuest](https://github.com/lollinng/CookQuest)** — Strava + Duolingo for cooking. A gamified skill-learning app with XP, streak tracking, 5 skill trees, photo verification via computer vision, social feed, and leaderboard. Full-stack: Next.js 15 · Express · PostgreSQL · Redis · Docker · GCP · CI/CD.
+
+---
 
 ### Tech Stack
 
-**Languages:** Python · TypeScript · Go · Java · SQL
-**Frameworks:** FastAPI · Django · NestJS · Express · Spring Boot
-**Databases:** PostgreSQL · MySQL · MongoDB · Redis
-**Infrastructure:** Docker · AWS · GCP · GitHub Actions · Vercel
+**Languages**
 
-### Background
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-- **SDE at Edra Labs** (2024–present) — Backend systems, AI/ML integration, CUDA programming
-- **Backend Developer at Oracle** (2023–2024) — Enterprise-grade backend systems at scale
-- **B.E. Computer Science, IIIT Pune** (2023) — IEEE Best Paper Award (AI/ML research)
+**Frameworks**
 
-### Featured Projects
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-| Project | Stack | What It Does |
-|---------|-------|-------------|
-| [CookQuest](https://github.com/lollinng/CookQuest) | TypeScript, Next.js, Express, PostgreSQL, Redis, Docker | Full-stack gamified app with CI/CD, auth, cloud storage, admin dashboard |
-| [Hexagonal Architecture API](https://github.com/lollinng/NestJs-Hexagonal-Architecture) | NestJS, TypeORM, PostgreSQL | Clean architecture backend with domain-driven design and REST APIs |
-| [BrainStorming](https://github.com/lollinng/BrainStorming) | TypeScript, Node.js, Claude API | Automated research pipeline with email and WhatsApp API integrations |
-| [Real-Time Location Tracker](https://github.com/lollinng/2D_location_tracker) | Python, Spark, Kafka | Streaming system for real-time vehicle/object tracking on a map |
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Infrastructure & AI**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Langchain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ---
 
-**Open to freelance projects.** If you need a backend built, an API integrated, or a database designed —
-let's talk.
+### Background
 
-[LinkedIn](https://www.linkedin.com/in/prathameshvj/) · [Email](mailto:pratameshjadhav@gmail.com)
+- **SDE at Edra Labs** (2024–present) — AI/ML backends, CUDA programming
+- **Backend Developer at Oracle** (2023–2024) — Enterprise systems at scale
+- **B.E. CS, IIIT Pune** (2023) — IEEE Best Paper Award (AI/ML research)
+
+### Other Projects
+
+| Project | Stack | What It Does |
+|---------|-------|-------------|
+| [Hexagonal Architecture API](https://github.com/lollinng/NestJs-Hexagonal-Architecture) | NestJS, TypeORM, PostgreSQL | Clean architecture backend with domain-driven design |
+| [BrainStorming](https://github.com/lollinng/BrainStorming) | Node.js, Claude API | Automated research pipeline with email and WhatsApp integrations |
+| [Real-Time Location Tracker](https://github.com/lollinng/2D_location_tracker) | Python, Spark, Kafka | Streaming system for real-time vehicle tracking on a map |
+
+---
+
+**Open to freelance.** Backend APIs, AI integrations, SaaS MVPs — [let's talk](mailto:pratameshjadhav@gmail.com).
+
+[LinkedIn](https://www.linkedin.com/in/prathameshvj/) · [Email](mailto:pratameshjadhav@gmail.com) · [GitHub](https://github.com/lollinng)
