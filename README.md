@@ -1,38 +1,51 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Prathamesh</h1>
-<h5 >A Python Backend Developer with a year of experience.</h5>
-I create solid backend solutions using languages like Python, JS , Golang, and Java, and frameworks like Flask , Django and React. I love making things run smoother and faster through automation and optimization. <br>
-Last year I've won some prestigious awards for my work, like the Best Paper Award at the IEEE Pune 2023 conference and an award in a government science exhibition competition for my AI project . <br>
-I've worked on projects in various stacks and I'm always on the lookout for new opportunities to bring my skills to the table and make a difference.
-<br><br>
+# Prathamesh Jadhav
 
-```
-Skills
-Languages: Python, Golang, Java, JavaScript, Sql, Plsql ,TypeScript
-Tech./Frameworks: Flask, Django, Spark, MERN, Nodejs , React
-Databases : Neo4j , Mysql , MongoDb
-```
+**Backend Engineer — APIs, Integrations & Database Systems**
 
+I build reliable backend systems that power products. REST and GraphQL APIs, third-party integrations
+(payments, messaging, auth providers), database design, and deployment infrastructure — from
+architecture to production.
 
-#### Profile links
-[<img src ="https://img.shields.io/badge/Resume-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">](https://drive.google.com/file/d/1_XPqq4OGc0M4lTGNY4gkKL97sV9cK-JD/view)
-[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/lollinng) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathameshvj/) 
-[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pratameshjadhav@gmail.com)
-[<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](https://lollinng.github.io/Prathamesh/)
+3 years of professional experience across Oracle and a high-growth startup. I write clean,
+well-documented code and deliver on time.
 
+---
 
+### What I Build
 
-###### Languages
+- **REST & GraphQL APIs** — FastAPI, Django, NestJS, Spring Boot, Go
+- **Third-Party Integrations** — Stripe, Twilio, OAuth providers, email/SMS, webhooks
+- **Database Design** — PostgreSQL, MySQL, MongoDB, Redis — schema design, migrations, optimization
+- **Auth Systems** — JWT, OAuth 2.0, RBAC, session management
+- **Real-Time Systems** — WebSockets, Kafka, event-driven architectures
+- **AI-Powered Backends** — RAG pipelines, LLM integration, intelligent automation
+- **DevOps & Deployment** — Docker, AWS, GCP, CI/CD, monitoring
 
+### Tech Stack
 
-[![Top Langs](https://lollinng.vercel.app/api/top-langs/?username=lollinng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Languages:** Python · TypeScript · Go · Java · SQL
+**Frameworks:** FastAPI · Django · NestJS · Express · Spring Boot
+**Databases:** PostgreSQL · MySQL · MongoDB · Redis
+**Infrastructure:** Docker · AWS · GCP · GitHub Actions · Vercel
 
-## 🗂️ Highlight Projects
+### Background
 
-<a href="https://github.com/lollinng/ImageSearchEngine-using-ImageCaptioning">
-<img align="center" src="https://lollinng.vercel.app/api/pin/?username=lollinng&repo=ImageSearchEngine-using-ImageCaptioning&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Action" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/lollinng/LanguageTranslation-using-Attention-mechanism">
-  <img align="center" src="https://lollinng.vercel.app/api/pin/?username=lollinng&repo=LanguageTranslation-using-Attention-mechanism&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
+- **SDE at Edra Labs** (2024–present) — Backend systems, AI/ML integration, CUDA programming
+- **Backend Developer at Oracle** (2023–2024) — Enterprise-grade backend systems at scale
+- **B.E. Computer Science, IIIT Pune** (2023) — IEEE Best Paper Award (AI/ML research)
+
+### Featured Projects
+
+| Project | Stack | What It Does |
+|---------|-------|-------------|
+| [CookQuest](https://github.com/lollinng/CookQuest) | TypeScript, Next.js, Express, PostgreSQL, Redis, Docker | Full-stack gamified app with CI/CD, auth, cloud storage, admin dashboard |
+| [Hexagonal Architecture API](https://github.com/lollinng/NestJs-Hexagonal-Architecture) | NestJS, TypeORM, PostgreSQL | Clean architecture backend with domain-driven design and REST APIs |
+| [BrainStorming](https://github.com/lollinng/BrainStorming) | TypeScript, Node.js, Claude API | Automated research pipeline with email and WhatsApp API integrations |
+| [Real-Time Location Tracker](https://github.com/lollinng/2D_location_tracker) | Python, Spark, Kafka | Streaming system for real-time vehicle/object tracking on a map |
+
+---
+
+**Open to freelance projects.** If you need a backend built, an API integrated, or a database designed —
+let's talk.
+
+[LinkedIn](https://www.linkedin.com/in/prathameshvj/) · [Email](mailto:pratameshjadhav@gmail.com)
