@@ -18,14 +18,6 @@
 - **Backend Developer at Oracle** (2023–2024) — Enterprise systems at scale
 - **B.E. CS, IIIT Pune** (2023) — IEEE Best Paper Award (AI/ML research)
 
-### Other Projects
-
-| Project | Stack | What It Does |
-|---------|-------|-------------|
-| [Hexagonal Architecture API](https://github.com/lollinng/NestJs-Hexagonal-Architecture) | NestJS, TypeORM, PostgreSQL | Clean architecture backend with domain-driven design |
-| [BrainStorming](https://github.com/lollinng/BrainStorming) | Node.js, Claude API | Automated research pipeline with email and WhatsApp integrations |
-| [PrepBuzz](https://github.com/lollinng/PrepBuzz) | Python, Claude API, Qdrant, SQLite | RAG + agentic pipeline that auto-generates educational videos for CAT exam questions |
-
 ---
 
 **Open to freelance.** Backend APIs, AI integrations, SaaS MVPs — [let's talk](mailto:pratameshjadhav@gmail.com).
