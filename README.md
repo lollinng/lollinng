@@ -10,6 +10,8 @@
 
 **[CookQuest](https://github.com/lollinng/CookQuest)** — Strava + Duolingo for cooking. A gamified skill-learning app with XP, streak tracking, 5 skill trees, photo verification via computer vision, social feed, and leaderboard. Full-stack: Next.js 15 · Express · PostgreSQL · Redis · Docker · GCP · CI/CD.
 
+**[Roomio](https://roomio-demo.pages.dev)** — Floor plans into walkable 3D homes. A browser-based home designer and buyer tour: multi-storey homes traced from floor plans, a parametric furniture catalog with collision and wall-snapping, lighting and time of day, first-person walkthroughs, and MP4 flythrough export. Full-stack: React · TypeScript · Three.js (React Three Fiber) · Express · PostgreSQL · Cloudflare Pages · CI/CD. Live demo: [roomio-demo.pages.dev](https://roomio-demo.pages.dev)
+
 ---
 
 ### Background
