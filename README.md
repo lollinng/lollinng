@@ -16,7 +16,7 @@
 
 ### Writing
 
-**[I rate-limited myself out of LinkedIn](http://prathameshjadhav.in/blog/linkedin-lockout/)** (Oct 2026, 10 min read). A post-mortem of my job-lead scraper: a daily limit I kept raising, two locked accounts, and an ID check that can't read an Indian ID card. Interactive charts from my own browser history.
+**[Greed cost me my LinkedIn account](http://prathameshjadhav.in/blog/linkedin-lockout/)** (Oct 2026, 10 min read). My job-lead scraper turned 428 LinkedIn leads into 75 applications in five days. Then I raised one number from 250 to 500. How it worked, how well it worked, and how it got locked.
 
 ---
 
