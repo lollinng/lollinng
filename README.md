@@ -16,7 +16,7 @@
 
 ### Writing
 
-**[I rate-limited myself out of LinkedIn](https://prathameshjadhav.in/blog/linkedin-lockout/)** (Oct 2026, 10 min read). A post-mortem of my job-lead scraper: a daily limit I kept raising, two locked accounts, and an ID check that can't read an Indian ID card. Interactive charts from my own browser history.
+**[I rate-limited myself out of LinkedIn](http://prathameshjadhav.in/blog/linkedin-lockout/)** (Oct 2026, 10 min read). A post-mortem of my job-lead scraper: a daily limit I kept raising, two locked accounts, and an ID check that can't read an Indian ID card. Interactive charts from my own browser history.
 
 ---
 
