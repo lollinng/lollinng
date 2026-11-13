@@ -14,12 +14,6 @@
 
 ---
 
-### Writing
-
-**[Greed cost me my LinkedIn account](http://prathameshjadhav.in/blog/linkedin-lockout/)** (Oct 2026, 10 min read). My job-lead scraper turned 428 LinkedIn leads into 75 applications in five days. Then I raised one number from 250 to 500. How it worked, how well it worked, and how it got locked.
-
----
-
 ### Background
 
 - **SDE at Edra Labs** (2024–present) — AI/ML backends, CUDA programming
